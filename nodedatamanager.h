@@ -7,7 +7,7 @@
 class nodeDataManager
 {
 public:
-    nodeDataManager();
+    nodeDataManager(){}
 
     QString type;
     QString name;
