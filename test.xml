@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--本文件由机电控制平台软件生成。-->
+<project author="Idealsee" brief="" created_in="2018-09-20T14:04:32" version="1.0" modified_in="2018-09-20T14:04:32" name="untitled">
+    <system_config>
+        <node description="description of node0" type="StepperMotor" name="node0">
+            <options>
+                <option value="1.8" unit="degree" id="1" type="float" name="步距角"/>
+                <option value="128" unit="" id="2" type="int" name="细分系数"/>
+                <option value="0" unit="" id="3" type="int" name="减速比"/>
+                <option value="100" unit="mm" id="4" type="int" name="导程（丝杠）"/>
+                <option value="100" unit="mm" id="5" type="int" name="最大行程"/>
+                <option value="0" unit="mm/s" id="6" type="int" name="最大速度"/>
+                <option value="0" unit="mm/s2" id="7" type="float" name="最大加速度"/>
+                <option value="0" unit="" id="8" type="int" name="传感器类型"/>
+            </options>
+            <registers>
+                <register user_name="步距角" value="20" updata_rate="" unit="degree" id="1" name="步距角" type="float" visible="false"/>
+                <register user_name="细分系数" value="128" updata_rate="" unit="" id="2" name="细分系数" type="int" visible="true"/>
+                <register user_name="减速比" value="0" updata_rate="" unit="" id="3" name="减速比" type="int" visible="true"/>
+                <register user_name="导程（丝杠）" value="100" updata_rate="" unit="mm" id="4" name="导程（丝杠）" type="int" visible="true"/>
+                <register user_name="最大行程" value="100" updata_rate="" unit="mm" id="5" name="最大行程" type="int" visible="true"/>
+                <register user_name="最大速度" value="0" updata_rate="" unit="mm/s" id="6" name="最大速度" type="int" visible="true"/>
+                <register user_name="最大加速度" value="0" updata_rate="" unit="mm/s2" id="7" name="最大加速度" type="float" visible="true"/>
+                <register user_name="传感器类型" value="0" updata_rate="" unit="" id="8" name="传感器类型" type="int" visible="true"/>
+            </registers>
+        </node>
+        <node description="description of node1" type="StepperMotor" name="node1">
+            <options>
+                <option value="1.8" unit="degree" id="1" type="float" name="步距角"/>
+                <option value="128" unit="" id="2" type="int" name="细分系数"/>
+                <option value="0" unit="" id="3" type="int" name="减速比"/>
+                <option value="100" unit="mm" id="4" type="int" name="导程（丝杠）"/>
+                <option value="100" unit="mm" id="5" type="int" name="最大行程"/>
+                <option value="0" unit="mm/s" id="6" type="int" name="最大速度"/>
+                <option value="0" unit="mm/s2" id="7" type="float" name="最大加速度"/>
+                <option value="0" unit="" id="8" type="int" name="传感器类型"/>
+            </options>
+            <registers>
+                <register user_name="步距角" value="1.8" updata_rate="" unit="degree" id="1" name="步距角" type="float" visible="true"/>
+                <register user_name="细分系数" value="128" updata_rate="" unit="" id="2" name="细分系数" type="int" visible="true"/>
+                <register user_name="减速比" value="0" updata_rate="" unit="" id="3" name="减速比" type="int" visible="true"/>
+                <register user_name="导程（丝杠）" value="100" updata_rate="" unit="mm" id="4" name="导程（丝杠）" type="int" visible="true"/>
+                <register user_name="最大行程" value="100" updata_rate="" unit="mm" id="5" name="最大行程" type="int" visible="true"/>
+                <register user_name="最大速度" value="0" updata_rate="" unit="mm/s" id="6" name="最大速度" type="int" visible="true"/>
+                <register user_name="最大加速度" value="0" updata_rate="" unit="mm/s2" id="7" name="最大加速度" type="float" visible="true"/>
+                <register user_name="传感器类型" value="0" updata_rate="" unit="" id="8" name="传感器类型" type="int" visible="true"/>
+            </registers>
+        </node>
+        <node description="description of node2" type="StepperMotor" name="node2">
+            <options>
+                <option value="1.8" unit="degree" id="1" type="float" name="步距角"/>
+                <option value="128" unit="" id="2" type="int" name="细分系数"/>
+                <option value="0" unit="" id="3" type="int" name="减速比"/>
+                <option value="100" unit="mm" id="4" type="int" name="导程（丝杠）"/>
+                <option value="100" unit="mm" id="5" type="int" name="最大行程"/>
+                <option value="0" unit="mm/s" id="6" type="int" name="最大速度"/>
+                <option value="0" unit="mm/s2" id="7" type="float" name="最大加速度"/>
+                <option value="0" unit="" id="8" type="int" name="传感器类型"/>
+            </options>
+            <registers>
+                <register user_name="步距角" value="1.8" updata_rate="" unit="degree" id="1" name="步距角" type="float" visible="true"/>
+                <register user_name="细分系数" value="asdf" updata_rate="" unit="" id="2" name="细分系数" type="int" visible="true"/>
+                <register user_name="减速比" value="0" updata_rate="" unit="" id="3" name="减速比" type="int" visible="true"/>
+                <register user_name="导程（丝杠）" value="100" updata_rate="" unit="mm" id="4" name="导程（丝杠）" type="int" visible="true"/>
+                <register user_name="最大行程" value="100" updata_rate="" unit="mm" id="5" name="最大行程" type="int" visible="true"/>
+                <register user_name="最大速度" value="0" updata_rate="" unit="mm/s" id="6" name="最大速度" type="int" visible="true"/>
+                <register user_name="最大加速度" value="0" updata_rate="" unit="mm/s2" id="7" name="最大加速度" type="float" visible="true"/>
+                <register user_name="传感器类型" value="0" updata_rate="" unit="" id="8" name="传感器类型" type="int" visible="true"/>
+            </registers>
+        </node>
+        <node description="description of node3" type="StepperMotor" name="node3">
+            <options>
+                <option value="1.8" unit="degree" id="1" type="float" name="步距角"/>
+                <option value="128" unit="" id="2" type="int" name="细分系数"/>
+                <option value="0" unit="" id="3" type="int" name="减速比"/>
+                <option value="100" unit="mm" id="4" type="int" name="导程（丝杠）"/>
+                <option value="100" unit="mm" id="5" type="int" name="最大行程"/>
+                <option value="0" unit="mm/s" id="6" type="int" name="最大速度"/>
+                <option value="0" unit="mm/s2" id="7" type="float" name="最大加速度"/>
+                <option value="0" unit="" id="8" type="int" name="传感器类型"/>
+            </options>
+            <registers>
+                <register user_name="步距角" value="1.8" updata_rate="" unit="degree" id="1" name="步距角" type="float" visible="true"/>
+                <register user_name="细分系数" value="128" updata_rate="" unit="" id="2" name="细分系数" type="int" visible="true"/>
+                <register user_name="减速比" value="0" updata_rate="" unit="" id="3" name="减速比" type="int" visible="true"/>
+                <register user_name="导程（丝杠）" value="100" updata_rate="" unit="mm" id="4" name="导程（丝杠）" type="int" visible="true"/>
+                <register user_name="最大行程" value="100" updata_rate="" unit="mm" id="5" name="最大行程" type="int" visible="true"/>
+                <register user_name="最大速度" value="0" updata_rate="" unit="mm/s" id="6" name="最大速度" type="int" visible="true"/>
+                <register user_name="最大加速度" value="0" updata_rate="" unit="mm/s2" id="7" name="最大加速度" type="float" visible="true"/>
+                <register user_name="传感器类型" value="0" updata_rate="" unit="" id="8" name="传感器类型" type="int" visible="true"/>
+            </registers>
+        </node>
+        <buttons>
+            <button tooltip="aa" text="aa" gcode_file="untitled.gcode" name="aa"/>
+            <button tooltip="bb" text="bb" gcode_file="untitleda.gcode" name="bb"/>
+            <button tooltip="cc" text="cc" gcode_file="untitledb.gcode" name="cc"/>
+        </buttons>
+    </system_config>
+    <gcode_files>
+        <gcode_file path="C:/QT/project/build-ElectromechanicalControlPlatform-Desktop_Qt_5_6_3_MSVC2015_32bit-Debug/debug/project/untitled/untitled.gcode"/>
+        <gcode_file path="C:/QT/project/build-ElectromechanicalControlPlatform-Desktop_Qt_5_6_3_MSVC2015_32bit-Debug/debug/project/untitled/untitleda.gcode"/>
+        <gcode_file path="C:/QT/project/build-ElectromechanicalControlPlatform-Desktop_Qt_5_6_3_MSVC2015_32bit-Debug/debug/project/untitled/untitledb.gcode"/>
+    </gcode_files>
+</project>
